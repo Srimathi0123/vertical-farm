@@ -1,0 +1,321 @@
+
+.btn2{
+  position: absolute;
+
+  float: right;
+  display: flex;
+}
+.font-1{
+  font-size: 50px;
+  padding: 5%;
+}
+.font-2{
+  font-size: 20px;
+}
+
+button{
+  display: inline-block;
+  top: 0;
+  outline: none;
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  border-radius: 500px;
+  transition-property: background-color,border-color,color,box-shadow,filter;
+  transition-duration: .3s;
+  border: 1px solid transparent;
+  letter-spacing: 2px;
+  min-width: 160px;
+  text-transform: uppercase;
+  white-space: normal;
+  font-weight: 700;
+  text-align: center;
+  padding: 16px 14px 18px;
+  color: #ffffff;
+  box-shadow: inset 0 0 0 2px #616467;
+  background-color: transparent;
+  height: 48px;
+  :hover{
+      color: #fff;
+      background-color: #616467;
+  }
+
+
+}
+.box1{
+  
+  background-color:rgb(206, 223, 177);
+  height: 177px;
+  width: 288px;
+  border: solid 2px rgb(226, 216, 135);
+  border-radius: 12px;
+  margin-left: 7px;
+  padding-bottom:15px;
+  margin-bottom: 13%;
+  color: black;
+
+}
+.box2{
+  position: absolute;
+  float: left;
+  left: 550px;
+  background-color:rgb(202, 239, 117);
+  height: 57px;
+  width: 440px;
+  border: solid 2px black;
+  border-radius: 12px;
+  margin-left: 0px;
+  padding-bottom:15px;
+  margin-bottom: 13%;
+  color: black;
+  
+}
+.box3 {
+  position: absolute;
+  float: left;
+  left: 983px;
+  background-color:rgb(232, 215, 215);
+  height: 57px;
+  width: 389px;
+  border: solid 2px black;
+  border-radius: 12px;
+  margin-left: 7px;
+  padding-bottom:15px;
+  margin-bottom: 15%;
+  color: black;
+}
+.btn{
+  padding: 3%;
+}
+
+
+.icons{
+  position: absolute;
+  float: right;
+  left: 2%;
+  top: 1%;
+  text-align: left;
+  font-size: 33px;
+
+}
+.btnn{
+  left: 88%;
+  padding-left: 77%;
+  height: 50px;
+  width: 1004px;
+  border-radius: 10%;
+
+}
+body {
+  background-color: #000000;
+  color: aliceblue;
+}
+.icons{
+  border-radius: 40%;
+}
+
+ul {
+  position: absolute;
+  left: 44%;
+  font-size: 114%;
+  top: 2%;
+  padding: 5%;
+  list-style-type: none;
+  left: 33%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  float: left;
+}
+
+li{
+  float: left;
+  left: 4%;
+}
+li a {
+  display: block;
+  padding: 8px;
+}
+.images{
+  position: absolute;
+  float: right;
+  left: 53%;
+  top: 36%;
+  border-radius: 0%;
+
+}
+
+#img1{
+  position: absolute;
+  float: right;
+  top: 73%;
+  border-radius: 20px;
+  display: flex;
+  left: 30%;
+}
+#img2{
+  position: absolute;
+  float: right;
+  top: 73%;
+
+  display: flex;
+  left: 32%;
+  border-radius: 20px;
+}
+#img3{
+  position: absolute;
+  float: right;
+  top: 73%;
+ border-radius: 20px;
+  display: flex;
+  left: 34%;
+}
+#img4{
+  position: absolute;
+  float: right;
+  top: 71%;
+  border-radius: 20px;
+  display: flex;
+  left: 60%;
+}
+#img5{
+  position: absolute;
+  float: right;
+  top: 71%;
+
+  display: flex;
+  left: 51%;
+  border-radius: 20px;
+}
+#img6{
+  position: absolute;
+  float: right;
+  top: 71%;
+ border-radius: 20px;
+  display: flex;
+  left: 49%;
+}
+.imgside{
+    position: absolute;
+    float: left;
+    left: 1040px;
+    top: 56%;
+    background-color:rgb(254, 254, 254);
+    height: 35px;
+    width: 80px;
+    border: solid 2px black;
+    border-radius: 20px;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    
+}
+.imgtop{
+  position: absolute;
+    float: left;
+    left: 1059px;
+    top: 17%;
+    background-color:rgb(255, 255, 255);
+    height: 140px;
+    width: 140px;
+   
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    border-radius: 15%;
+
+}
+.box1.box2.box3{
+  color: rgb(0, 0, 0);
+}
+.para{
+  position: absolute;
+    float: left;
+    left: 790px;
+    top: 17%;
+    height: 140px;
+    width: 140px;
+    font-size: 22px;
+    color: aliceblue;
+    text-align: center;
+
+}
+.para2{
+  position: absolute;
+    float: left;
+    left: 1090px;
+    top: 43%;
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+
+.design{
+  position: absolute;
+    float: left;
+    left: 1059px;
+    top: 17%;
+    background-color:rgb(255, 255, 255);
+    height: 140px;
+    width: 140px;
+    font-size: 22px;
+    color: black;
+    text-align: center;
+    border-radius: 10%;
+
+}
+.round {
+  position: absolute;
+  float: left;
+  top: 34%;
+  left: 780px;
+  background-color:rgb(250, 250, 250);
+  height: 16px;
+  width: 30px;
+  border: solid 2px black;
+  border-radius: 20px;
+  margin-left: 7px;
+  padding-bottom:15px;
+  margin-bottom: 15%;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-size: 35px;
+}
+#urban{
+  position: absolute;
+  float: right;
+  top: 44%;
+  left: 153px;
+  background-color: rgb(241, 255, 137);
+  color: #000000;
+  
+
+}
+
+.imgblack{
+    position: absolute;
+    float: left;
+    left: 800px;
+    top: 72%;
+    background-color:rgb(0, 0, 0);
+    height: 33px;
+    width: 70px;
+    border: solid 2px rgb(124, 124, 124);
+    border-radius: 20px;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+    
+
+}
+.ico{
+  height: 111px;
+  width: 55px;
+}
+.whitecolour{
+  background-color: #000000;
+}
+
